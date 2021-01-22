@@ -1,4 +1,4 @@
-# Eros Moura Lima 🚀
+🤖 Eros Moura Lima 🚀
 
 Teste criando a tela do Instagram 
 
@@ -6,4 +6,4 @@ Nesta aula aprendi a utilizar melhor Flexbox, e fiz a interface de login do Inst
 
 Thanks!
 
-## 🚀 Let's code! 🚀
+## 🚀 Let's code! 🤖
